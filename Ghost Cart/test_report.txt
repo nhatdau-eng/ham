@@ -1,0 +1,11 @@
+| Test | Mục tiêu            | Kết quả                  |
+| ---- | ------------------- | ------------------------ |
+| TC01 | Giảm giá + tặng quà | PASS                     |
+| TC02 | Deep Copy Array     | PASS                     |
+| TC03 | Deep Copy Object    | PASS                     |
+| TC04 | Discount = 0        | PASS                     |
+| TC05 | Gift = null         | FAIL (cần xử lý)         |
+| TC06 | Discount > Total    | FAIL (cần xử lý)         |
+| TC07 | Nested Object       | PASS                     |
+| TC08 | Không còn Reference | PASS                     |
+| TC09 | Date/Set/Map        | PASS với structuredClone |
