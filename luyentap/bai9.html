@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+function demKyTu(arr, kyTu) {
+    let count = 0;
+    for (let i = 0; i < arr.length; i++) {
+        if (arr[i] === kyTu) {
+            count++;
+        }
+    }
+    if (count > 0) {
+        return count;
+    }
+    return -1;
+}
+console.log(demKyTu(['a', 'b', 'a', 'c', 'a'], 'a')); // 3
+console.log(demKyTu(['a', 'b', 'c'], 'x')); // -1
+</script>
+</body>
+</html>
