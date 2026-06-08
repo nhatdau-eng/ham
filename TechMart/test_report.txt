@@ -1,0 +1,18 @@
+--- HÓA ĐƠN TECHMART ---
+main.js:29 Tạm tính: 15600000 VNĐ
+main.js:30 Giảm giá: 3120000 VNĐ
+main.js:31 Thuế VAT: 1248000 VNĐ
+main.js:32 TỔNG THANH TOÁN: 13728000 VNĐ
+main.js:33 ------------------------
+main.js:28 --- HÓA ĐƠN TECHMART ---
+main.js:29 Tạm tính: 33700000 VNĐ
+main.js:30 Giảm giá: 6740000 VNĐ
+main.js:31 Thuế VAT: 2696000 VNĐ
+main.js:32 TỔNG THANH TOÁN: 29656000 VNĐ
+main.js:33 ------------------------
+main.js:28 --- HÓA ĐƠN TECHMART ---
+main.js:29 Tạm tính: 0 VNĐ
+main.js:30 Giảm giá: 0 VNĐ
+main.js:31 Thuế VAT: 0 VNĐ
+main.js:32 TỔNG THANH TOÁN: 0 VNĐ
+main.js:33 ------------------------
