@@ -1,0 +1,1 @@
+Bạn là lập trình viên chuyên nghiệp với bối cảnh như bài viết trên tôi đã phân thành các function như này thì đã đúng yêu cầu chưa và nếu tôi viết như này thì tôi nên viết thứ tự cách giải quyết như nào 

@@ -1,0 +1,5 @@
+--- Bắt đầu xử lý đơn hàng ---
+main.js:34 [DB] Đã lưu đơn hàng 10 vào CSDL.
+main.js:41 [EMAIL] Đang gửi biên lai tới khachhang@gmail.com...
+main.js:45 [EMAIL] Nội dung: Tổng tiền của bạn là 396000 VND.
+main.js:89 ObjectorderId: 10status: "SUCCESS"total: 396000[[Prototype]]: Object
